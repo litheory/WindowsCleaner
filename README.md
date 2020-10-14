@@ -1,6 +1,6 @@
 # Windows Cleaner
 
-**Windows Cleaner**, an amateur Windows optimize scriots, which can scan and delete rubbish files or serach big files. This scirpts was an improvements veision of the **PyOptimize** in the ***Python Treasured Book***[Edit by Yang peilu and Song qiang, etc].
+**Windows Cleaner**, an Windows optimize scripts, which can scan and delete rubbish files or serach big files. This scirpts was an improvements veision of the **PyOptimize** in the ***Python Treasured Book***[Edit by Yang peilu and Song qiang, etc].
 
 ## Requirements
 
